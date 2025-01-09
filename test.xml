@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <class>
+    <student sex="male" course="json">Mofe</student>
+    <student sex="male" course="xml">Mofe</student>
+    <student sex="male" course="java">Mofe</student>
+    <student sex="male" course="lua">Mofe</student>
+</class>  -->
+
+<group>
+    <student>
+        <name>Mofe</name>
+        <favlang>Python</favlang>
+        <sex>Male</sex>
+        <favframework>Spring Boot</favframework>
+        <course>JAVA</course>
+    </student>
+    <student>
+        <name>Steven</name>
+        <favlang>JavaScript</favlang>
+        <sex>Male</sex>
+        <favframework>Node.js</favframework>
+        <course>Next.js</course>
+    </student>
+    <student>
+        <name>Kelvin</name>
+        <favlang>C#</favlang>
+        <sex>Male</sex>
+        <favframework>Laravel</favframework>
+        <course>PHP</course>
+    </student><student>
+        <name>Eri</name>
+        <favlang>Python</favlang>
+        <sex>Female</sex>
+        <favframework>Laravel</favframework>
+        <course>JAVA</course>
+    </student>
+    <student>
+        <name>Samuel</name>
+        <favlang>PHP</favlang>
+        <sex>Male</sex>
+        <favframework>Spring Boot</favframework>
+        <course>JAVA</course>
+    </student>
+    <student>
+        <name>Fawaz</name>
+        <favlang>Javascript</favlang>
+        <sex>Male</sex>
+        <favframework>None</favframework>
+        <course>Web dev</course>
+    </student>
+    <student>
+        <name>Mustapha</name>
+        <favlang>Python</favlang>
+        <sex>Male</sex>
+        <favframework>Django</favframework>
+        <course>Python</course>
+    </student>
+</group>
