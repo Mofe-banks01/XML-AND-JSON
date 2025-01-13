@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Joestars>
+<Members sex="male" age='45'>Jotaro</Members>
+<Members sex="female" age='19'>Jolyne</Members>
+<Members sex='male' age='77' >Jonathan</Members>
+<Members sex='male' age='19'>Josuke</Members>
+<Members sex='male' age='21'>Giorno</Members>
+<Pet>Iggy</Pet>
+</Joestars>
