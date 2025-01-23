@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE class SYSTEM "bscstudent.dtd">
+
+<class>
+    <student>
+        <name>Johnny Joestar</name>
+        <pet>
+            <name> Gizmo </name>
+            <color>White</color>
+        </pet>
+        <color>White</color>
+    </student>
+    <student>
+        <name> Jonathan Joestar</name>
+        <pet>
+            <name> Bingo </name>
+            <color> Mixed </color>
+        </pet>
+        <color> Mixed </color>
+    </student>
+</class>

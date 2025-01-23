@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE family [
+       <!ELEMENT family (parent)*>
+        <!ELEMENT parent (child)*>
+        <!ATTLIST parent hobby CDATA #IMPLIED>
+        <!ATTLIST parent age CDATA #IMPLIED>
+        <!ATTLIST parent gender CDATA #IMPLIED>
+        <!ATTLIST parent name CDATA #IMPLIED>
+        <!ELEMENT child (#PCDATA)>
+        <!ATTLIST child title CDATA #IMPLIED>
+        <!ATTLIST child age CDATA #IMPLIED>
+        ]>
+<family>
+    <parent hobby="Swimming" age="20" gender="female" name="Jonathan">
+        <child title="son" age="17">Ireoluwa</child>
+        <child title="son" age="20">Zion</child>
+    </parent>
+    <parent hobby="cooking" age="51" gender="female" name="Jeniffer">
+        <child title="son" age="35">Daniel</child>
+        <child title="daughter" age="35">Remi</child>
+    </parent>
+    <parent hobby="singing" age="52" gender="female" name="Oluwaseun">
+        <child title="son" age="20">Kelvin</child>
+        <child title="son" age="18">Joseph</child>
+    </parent>
+    <parent hobby="Gaming" age="44" gender="male" name="Dotun">
+        <child title="daughter" age="10">Ariana</child>
+        <child title="daughter" age="10">Fife</child>
+    </parent>
+    <parent hobby="Dancing" age="51" gender="female" name="Micheal">
+        <child title="daughter" age="18">Mirace</child>
+        <child title="daughter" age="16">Bingo</child>
+    </parent>
+    <parent hobby="Singing" age="40" gender="female" name="Gift">
+        <child title="daughter" age="19">Fife</child>
+        <child title="son" age="20">Zion</child>
+    </parent>
+</family>

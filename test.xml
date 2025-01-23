@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <class>
-    <student sex="male" course="json">Mofe</student>
-    <student sex="male" course="xml">Mofe</student>
-    <student sex="male" course="java">Mofe</student>
-    <student sex="male" course="lua">Mofe</student>
-</class>  -->
+<!DOCTYPE class SYSTEM "info.dtd">
+<class>
+    <student>Mofe</student>
+    <student>Eri</student>
+    <student>Jonathan</student>
+    <student>Isaac</student>
+    <student>Kelvin</student>
+</class>
 
-<group>
+<!-- <group>
     <student>
         <name>Mofe</name>
         <favlang>Python</favlang>
@@ -55,4 +57,4 @@
         <favframework>Django</favframework>
         <course>Python</course>
     </student>
-</group>
+</group> -->

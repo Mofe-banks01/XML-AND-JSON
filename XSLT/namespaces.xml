@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group xmlns:a="http://www.w3.org/2001/XMLSchema-instance">
+<?xml-stylesheet type='text/css' href="style.css"?>
+    ```<a:student>
+            <name> James</name>
+            <sex>male</sex>
+            <course>json</course>
+        </a:student>
+        <a:student>
+            <name> James</name>
+            <sex>male</sex>
+            <course>json</course>
+        </a:student>
+       <a:student>
+            <name> James</name>
+            <sex>male</sex>
+            <course>json</course>
+        </a:student>
+</group>

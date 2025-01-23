@@ -1,0 +1,5 @@
+<!ELEMENT Joestars (Members)*>
+    <!ELEMENT Members (sex,age,complexion)*>
+    <!ELEMENT sex (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT complexion (#PCDATA)>

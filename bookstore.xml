@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE bookstore system "bookstore.dtd"> -->
+<?xml-stylesheet type='text/css' href="style.css"?>
+<bookstore>
+
+    <book genre='Fantasy' title="Elden Ring:Shadow of the Eldtree" pbdate="2024">
+        <author gender='male' title='mr' active='practising' lpbook='2024'>
+            Hidetaka Miyazaki
+        </author> 
+    </book>
+    <book genre='Fantasy' title="Elden Ring" pbdate="2022">
+        <author gender='male' title='mr' active='practising' lpbook='2024'>
+            Hidetaka Miyazaki
+        </author> 
+    </book>
+    <book genre='Fantasy' title="Sekiro:Shadows Die Twice" pbdate="2019">
+        <author gender='male' title='mr' active='practising' lpbook='2024'>
+            Hidetaka Miyazaki
+        </author> 
+    </book>
+    <book genre='Fantasy' title="Bloodborne" pbdate="2015">
+        <author gender='male' title='mr' active='practising' lpbook='2024'>
+            Hidetaka Miyazaki
+        </author> 
+    </book>
+
+</bookstore>

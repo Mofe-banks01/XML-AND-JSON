@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE Joestars SYSTEM "family_tree.dtd">
+
+<Joestars>
+        <Members>
+                <sex>Male</sex>
+                <age>92</age>
+                <complexion>White</complexion>
+        </Members>
+         <Members>
+                <sex>Male</sex>
+                <age>22</age>
+                <complexion>Black</complexion>
+        </Members>
+         <Members>
+                <sex>Male</sex>
+                <age>35</age>
+                <complexion>White</complexion>
+        </Members>
+         <Members>
+                <sex>Male</sex>
+                <age>37</age>
+                <complexion>White</complexion>
+        </Members>
+         <Members>
+                <sex>Male</sex>
+                <age>56</age>
+                <complexion>Black</complexion>
+        </Members>
+</Joestars>

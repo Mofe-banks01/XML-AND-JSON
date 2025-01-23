@@ -1,0 +1,7 @@
+<!ELEMENT bookstore (book)*> 
+<!ATTLIST book CDATA #IMPLIED>
+<!ELEMENT book (author)>
+<!ATTLIST book author CDATA #IMPLIED>
+<!ATTLIST book author gender(male | female) "male">
+<!ATTLIST book author active(practising | dormant) "practising">
+<!ELEMENT author (#PCDATA)>
