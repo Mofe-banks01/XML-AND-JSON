@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<class>
+    <student>
+        <name>Johnny</name>
+        <pet>
+            <name> Gizmo </name>
+            <color>White</color>
+        </pet>
+        <color>White</color>
+    </student>
+    <student>
+        <name>Jonathan</name>
+        <pet>
+            <name>Bingo</name>
+            <color> Mixed</color>
+        </pet>
+        <color> Mixed </color>
+    </student>
+````<student>
+        <name>Josuke</name>
+        <pet>
+            <name>Apollo</name>
+            <color>White</color>
+        </pet>
+        <color>White</color>
+    </student>
+</class>
